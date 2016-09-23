@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="805" it="0" lt="585" ts="1473885117165" s="true" lb="HomePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="125242" ng="1" na="1">
+  <httpSample t="586" it="0" lt="585" ts="1473885117165" s="true" lb="http://idownloadblog.com/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="423" ng="1" na="1"/>
+  <httpSample t="217" it="0" lt="89" ts="1473885117753" s="true" lb="http://www.idownloadblog.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124819" ng="1" na="1"/>
+</httpSample>
+<httpSample t="228" it="0" lt="42" ts="1473885117977" s="true" lb="ArticlePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="256528" ng="1" na="1">
+  <httpSample t="42" it="0" lt="42" ts="1473885117977" s="true" lb="http://idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="463" ng="1" na="1"/>
+  <httpSample t="186" it="0" lt="52" ts="1473885118019" s="true" lb="http://www.idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="256065" ng="1" na="1"/>
+</httpSample>
+<httpSample t="100" it="0" lt="42" ts="1473885118206" s="true" lb="UnlockPage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="62726" ng="1" na="1">
+  <httpSample t="42" it="0" lt="42" ts="1473885118206" s="true" lb="http://idownloadblog.com/unlock/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="430" ng="1" na="1"/>
+  <httpSample t="58" it="0" lt="54" ts="1473885118248" s="true" lb="http://www.idownloadblog.com/unlock/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="62296" ng="1" na="1"/>
+</httpSample>
+
+<httpSample t="503" it="0" lt="221" ts="1473886647275" s="true" lb="HomePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124567" ng="1" na="1">
+  <httpSample t="221" it="0" lt="221" ts="1473886647275" s="true" lb="http://idownloadblog.com/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="423" ng="1" na="1"/>
+  <httpSample t="281" it="0" lt="147" ts="1473886647497" s="true" lb="http://www.idownloadblog.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124144" ng="1" na="1"/>
+</httpSample>
+<httpSample t="244" it="0" lt="40" ts="1473886647784" s="true" lb="ArticlePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="257257" ng="1" na="1">
+  <httpSample t="40" it="0" lt="40" ts="1473886647784" s="true" lb="http://idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="463" ng="1" na="1"/>
+  <httpSample t="204" it="0" lt="55" ts="1473886647824" s="true" lb="http://www.idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="256794" ng="1" na="1"/>
+</httpSample>
+<httpSample t="95" it="0" lt="41" ts="1473886648029" s="true" lb="UnlockPage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="62726" ng="1" na="1">
+  <httpSample t="41" it="0" lt="41" ts="1473886648029" s="true" lb="http://idownloadblog.com/unlock/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="430" ng="1" na="1"/>
+  <httpSample t="54" it="0" lt="53" ts="1473886648070" s="true" lb="http://www.idownloadblog.com/unlock/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="62296" ng="1" na="1"/>
+</httpSample>
+<httpSample t="175" it="0" lt="54" ts="1473886648126" s="true" lb="HomePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124558" ng="1" na="1">
+  <httpSample t="54" it="0" lt="54" ts="1473886648126" s="true" lb="http://idownloadblog.com/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="423" ng="1" na="1"/>
+  <httpSample t="120" it="0" lt="72" ts="1473886648181" s="true" lb="http://www.idownloadblog.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="124135" ng="1" na="1"/>
+</httpSample>
+<httpSample t="225" it="0" lt="64" ts="1473886648303" s="true" lb="ArticlePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="257264" ng="1" na="1">
+  <httpSample t="64" it="0" lt="64" ts="1473886648303" s="true" lb="http://idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="463" ng="1" na="1"/>
+  <httpSample t="160" it="0" lt="55" ts="1473886648368" s="true" lb="http://www.idownloadblog.com/2016/09/13/100-best-new-ios-10-features/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="256801" ng="1" na="1"/>
+</httpSample>
+<httpSample t="97" it="0" lt="41" ts="1473886648528" s="true" lb="UnlockPage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="62726" ng="1" na="1">
+  <httpSample t="41" it="0" lt="41" ts="1473886648528" s="true" lb="http://idownloadblog.com/unlock/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="430" ng="1" na="1"/>
+  <httpSample t="56" it="0" lt="54" ts="1473886648569" s="true" lb="http://www.idownloadblog.com/unlock/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="62296" ng="1" na="1"/>
+</httpSample>
+
+</testResults>

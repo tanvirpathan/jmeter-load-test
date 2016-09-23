@@ -1,0 +1,369 @@
+2016/09/23 10:46:01 INFO  - jmeter.util.JMeterUtils: Setting Locale to en_US 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Loading user properties from: /gitwork/apache-jmeter-3.0/bin/user.properties 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Loading system properties from: /gitwork/apache-jmeter-3.0/bin/system.properties 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Setting JMeter property: jmeter.save.saveservice.output_format=xml 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Setting JMeter property: users=100 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Setting JMeter property: ramp=1 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Setting JMeter property: loopCount=2 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Copyright (c) 1998-2016 The Apache Software Foundation 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Version 3.0 r1743807 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: java.version=1.8.0_102 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: os.name=Mac OS X 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: os.arch=x86_64 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: os.version=10.11.6 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: file.encoding=UTF-8 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Max memory     =3817865216 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Available Processors =8 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Default Locale=English (United States) 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: JMeter  Locale=English (United States) 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: JMeterHome=/gitwork/apache-jmeter-3.0 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: user.dir  =/gitwork/apache-jmeter-3.0/bin 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: PWD       =/gitwork/apache-jmeter-3.0/bin 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: IP: 10.201.29.90 Name: tpathan-ret.local FullName: 10.201.29.90 
+2016/09/23 10:46:01 INFO  - jmeter.services.FileServer: Default base='/gitwork/apache-jmeter-3.0/bin' 
+2016/09/23 10:46:01 INFO  - jmeter.services.FileServer: Set new base='/gitwork/apache-jmeter-3.0/bin/examples' 
+2016/09/23 10:46:01 INFO  - jmeter.save.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2 
+2016/09/23 10:46:01 INFO  - jmeter.save.SaveService: Using SaveService properties file encoding UTF-8 
+2016/09/23 10:46:01 INFO  - jmeter.save.SaveService: Using SaveService properties version 2.9 
+2016/09/23 10:46:01 INFO  - jmeter.save.SaveService: All converter versions present and correct 
+2016/09/23 10:46:01 INFO  - jmeter.save.SaveService: Loading file: /gitwork/apache-jmeter-3.0/bin/examples/idownloadblogTest.jmx 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Creating summariser <summary> 
+2016/09/23 10:46:01 INFO  - jmeter.engine.StandardJMeterEngine: Running the test! 
+2016/09/23 10:46:01 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/09/23 10:46:01 INFO  - jmeter.samplers.SampleEvent: List of sample_variables: [] 
+2016/09/23 10:46:01 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must contain the string: '.functions.' 
+2016/09/23 10:46:01 INFO  - jmeter.engine.util.CompoundVariable: Note: Function class names must not contain the string: '.gui.' 
+2016/09/23 10:46:01 INFO  - jmeter.JMeter: Running test (1474645561681) 
+2016/09/23 10:46:01 INFO  - jmeter.engine.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group 
+2016/09/23 10:46:01 INFO  - jmeter.engine.StandardJMeterEngine: Starting 100 threads for group Thread Group. 
+2016/09/23 10:46:01 INFO  - jmeter.engine.StandardJMeterEngine: Thread will continue on error 
+2016/09/23 10:46:01 INFO  - jmeter.threads.ThreadGroup: Starting thread group number 1 threads 100 ramp-up 1 perThread 10.0 delayedStart=true 
+2016/09/23 10:46:01 INFO  - jmeter.threads.ThreadGroup: Started thread group number 1 
+2016/09/23 10:46:01 INFO  - jmeter.engine.StandardJMeterEngine: All thread groups have been started 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-1 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-2 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPHCAbstractImpl: Local host = tpathan-ret.local 
+2016/09/23 10:46:01 INFO  - jmeter.protocol.http.sampler.HTTPHC4Impl: HTTP request retry count = 0 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-3 
+2016/09/23 10:46:01 INFO  - jmeter.samplers.SampleResult: Note: Sample TimeStamps are START times 
+2016/09/23 10:46:01 INFO  - jmeter.samplers.SampleResult: sampleresult.default.encoding is set to ISO-8859-1 
+2016/09/23 10:46:01 INFO  - jmeter.samplers.SampleResult: sampleresult.useNanoTime=true 
+2016/09/23 10:46:01 INFO  - jmeter.samplers.SampleResult: sampleresult.nanoThreadSleep=5000 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-4 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-5 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-6 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-7 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-8 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-9 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-10 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-11 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-12 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-13 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-14 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-15 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-16 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-17 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-18 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-19 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-20 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-21 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-22 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-23 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-24 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-25 
+2016/09/23 10:46:01 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-26 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-27 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-28 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-29 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-30 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-31 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-32 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-33 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-34 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-35 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-36 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-37 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-38 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-39 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-40 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-41 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-42 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-43 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-44 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-45 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-46 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-47 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-48 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-49 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-50 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-51 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-52 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-53 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-54 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-55 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-56 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-57 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-58 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-59 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-60 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-61 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-62 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-63 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-64 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-65 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-66 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-67 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-68 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-69 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-70 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-71 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-72 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-73 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-74 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-75 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-76 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-77 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-78 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-79 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-80 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-81 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-82 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-83 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-84 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-85 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-86 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-87 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-88 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-89 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-90 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-91 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-92 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-93 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-94 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-95 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-96 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-97 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-98 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-99 
+2016/09/23 10:46:02 INFO  - jmeter.threads.JMeterThread: Thread started: Thread Group 1-100 
+2016/09/23 10:46:03 INFO  - jmeter.reporters.Summariser: summary +      1 in 00:00:02 =    0.5/s Avg:  1503 Min:  1503 Max:  1503 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0 
+2016/09/23 10:46:33 INFO  - jmeter.reporters.Summariser: summary +    102 in 00:00:30 =    3.4/s Avg:  7143 Min:  2572 Max: 28994 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0 
+2016/09/23 10:46:33 INFO  - jmeter.reporters.Summariser: summary =    103 in 00:00:32 =    3.2/s Avg:  7088 Min:  1503 Max: 28994 Err:     0 (0.00%) 
+2016/09/23 10:47:00 INFO  - jmeter.reporters.Summariser: summary +    150 in 00:00:27 =    5.6/s Avg: 27776 Min:  4989 Max: 49403 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0 
+2016/09/23 10:47:00 INFO  - jmeter.reporters.Summariser: summary =    253 in 00:00:59 =    4.3/s Avg: 19354 Min:  1503 Max: 49403 Err:     0 (0.00%) 
+2016/09/23 10:47:30 INFO  - jmeter.reporters.Summariser: summary +    119 in 00:00:30 =    4.0/s Avg: 20129 Min:  4578 Max: 48767 Err:     0 (0.00%) Active: 100 Started: 100 Finished: 0 
+2016/09/23 10:47:30 INFO  - jmeter.reporters.Summariser: summary =    372 in 00:01:28 =    4.2/s Avg: 19602 Min:  1503 Max: 49403 Err:     0 (0.00%) 
+2016/09/23 10:47:51 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-19 
+2016/09/23 10:47:51 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-19 
+2016/09/23 10:47:52 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-66 
+2016/09/23 10:47:52 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-66 
+2016/09/23 10:47:53 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-8 
+2016/09/23 10:47:53 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-8 
+2016/09/23 10:47:56 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-67 
+2016/09/23 10:47:56 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-67 
+2016/09/23 10:47:56 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-30 
+2016/09/23 10:47:56 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-30 
+2016/09/23 10:47:57 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-86 
+2016/09/23 10:47:57 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-86 
+2016/09/23 10:47:58 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-78 
+2016/09/23 10:47:58 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-78 
+2016/09/23 10:47:58 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-22 
+2016/09/23 10:47:58 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-22 
+2016/09/23 10:47:59 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-41 
+2016/09/23 10:47:59 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-41 
+2016/09/23 10:47:59 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-24 
+2016/09/23 10:47:59 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-24 
+2016/09/23 10:48:00 INFO  - jmeter.reporters.Summariser: summary +     75 in 00:00:30 =    2.5/s Avg: 32130 Min:  8662 Max: 47316 Err:     0 (0.00%) Active: 90 Started: 100 Finished: 10 
+2016/09/23 10:48:00 INFO  - jmeter.reporters.Summariser: summary =    447 in 00:01:58 =    3.8/s Avg: 21704 Min:  1503 Max: 49403 Err:     0 (0.00%) 
+2016/09/23 10:48:00 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-48 
+2016/09/23 10:48:00 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-48 
+2016/09/23 10:48:02 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-31 
+2016/09/23 10:48:02 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-31 
+2016/09/23 10:48:02 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-88 
+2016/09/23 10:48:02 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-88 
+2016/09/23 10:48:03 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-13 
+2016/09/23 10:48:03 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-13 
+2016/09/23 10:48:03 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-18 
+2016/09/23 10:48:03 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-18 
+2016/09/23 10:48:03 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-79 
+2016/09/23 10:48:03 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-79 
+2016/09/23 10:48:04 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-93 
+2016/09/23 10:48:04 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-93 
+2016/09/23 10:48:05 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-97 
+2016/09/23 10:48:05 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-97 
+2016/09/23 10:48:05 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-98 
+2016/09/23 10:48:05 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-98 
+2016/09/23 10:48:05 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-96 
+2016/09/23 10:48:05 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-96 
+2016/09/23 10:48:06 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-6 
+2016/09/23 10:48:06 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-6 
+2016/09/23 10:48:06 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-25 
+2016/09/23 10:48:06 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-25 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-12 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-12 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-44 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-44 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-1 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-1 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-36 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-36 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-7 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-7 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-42 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-42 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-50 
+2016/09/23 10:48:08 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-50 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-16 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-16 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-33 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-33 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-89 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-89 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-17 
+2016/09/23 10:48:09 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-17 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-15 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-15 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-2 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-2 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-55 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-55 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-52 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-52 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-51 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-51 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-87 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-87 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-28 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-28 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-21 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-21 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-57 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-57 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-69 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-69 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-61 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-61 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-39 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-39 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-76 
+2016/09/23 10:48:10 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-76 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-23 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-23 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-54 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-54 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-37 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-37 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-35 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-35 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-65 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-65 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-46 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-46 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-92 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-92 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-73 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-73 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-14 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-14 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-43 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-43 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-74 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-74 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-100 
+2016/09/23 10:48:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-100 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-56 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-56 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-34 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-34 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-81 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-81 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-63 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-63 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-9 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-9 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-53 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-53 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-70 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-70 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-90 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-90 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-11 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-11 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-71 
+2016/09/23 10:48:12 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-71 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-38 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-38 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-62 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-62 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-94 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-94 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-4 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-4 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-47 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-47 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-29 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-29 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-85 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-85 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-64 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-64 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-27 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-27 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-49 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-49 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-95 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-95 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-91 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-91 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-32 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-32 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-10 
+2016/09/23 10:48:13 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-10 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-40 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-75 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-40 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-75 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-82 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-82 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-77 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-77 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-84 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-84 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-72 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-72 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-59 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-59 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-20 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-20 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-26 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-26 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-5 
+2016/09/23 10:48:14 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-5 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-80 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-80 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-60 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-60 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-45 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-45 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-68 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-68 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-58 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-58 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-3 
+2016/09/23 10:48:15 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-3 
+2016/09/23 10:48:16 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-83 
+2016/09/23 10:48:16 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-83 
+2016/09/23 10:49:05 INFO  - jmeter.reporters.Summariser: summary +    151 in 00:01:06 =    2.3/s Avg: 20506 Min:   387 Max: 133858 Err:     0 (0.00%) Active: 1 Started: 100 Finished: 99 
+2016/09/23 10:49:05 INFO  - jmeter.reporters.Summariser: summary =    598 in 00:03:04 =    3.2/s Avg: 21401 Min:   387 Max: 133858 Err:     0 (0.00%) 
+2016/09/23 10:49:11 INFO  - jmeter.threads.JMeterThread: Thread is done: Thread Group 1-99 
+2016/09/23 10:49:11 INFO  - jmeter.threads.JMeterThread: Thread finished: Thread Group 1-99 
+2016/09/23 10:49:11 INFO  - jmeter.engine.StandardJMeterEngine: Notifying test listeners of end of test 
+2016/09/23 10:49:11 INFO  - jmeter.reporters.Summariser: summary +      2 in 00:00:06 =    0.3/s Avg:  2982 Min:  1269 Max:  4695 Err:     0 (0.00%) Active: 0 Started: 100 Finished: 100 
+2016/09/23 10:49:11 INFO  - jmeter.reporters.Summariser: summary =    600 in 00:03:10 =    3.2/s Avg: 21340 Min:   387 Max: 133858 Err:     0 (0.00%) 
